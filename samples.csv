@@ -1,0 +1,11 @@
+sample,read1,read2
+sample_01,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_011.fq.gz,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_012.fq.gz
+sample_02,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_021.fq.gz,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_022.fq.gz
+sample_03,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_031.fq.gz,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_032.fq.gz
+sample_04,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_041.fq.gz,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_042.fq.gz
+sample_05,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_051.fq.gz,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_052.fq.gz
+sample_06,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_061.fq.gz,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_062.fq.gz
+sample_07,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_071.fq.gz,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_072.fq.gz
+sample_08,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_081.fq.gz,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_082.fq.gz
+sample_09,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_091.fq.gz,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_092.fq.gz
+sample_10,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_101.fq.gz,https://raw.githubusercontent.com/huymtraan/nipt_test_data/refs/heads/main/paired_end_sm/sample_102.fq.gz
